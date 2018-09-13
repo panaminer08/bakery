@@ -1,0 +1,1 @@
+document.getElementsByClassName("dropdown-trigger").$( layout ).ready(function)
