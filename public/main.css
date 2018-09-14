@@ -26,6 +26,10 @@ body {
     height: 70%;;
 }
 
+#text-area {
+    color: white;
+    text-align: center;
+}
 /* Place text in the middle of the image */
 .hero-text {
     text-align: center;
