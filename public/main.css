@@ -15,6 +15,11 @@ body {
     height: 150px;
     width: 100%;
 }
+
+#cookie1 {
+    height: 200px;
+    width: 100%;
+}
     
 .hero-image {
     /* background-position: center; */
